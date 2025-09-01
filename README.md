@@ -1,1 +1,3 @@
 # birkitilki
+
+bu bir denemedir
